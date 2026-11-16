@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+geo_result*.csv
+!examples/geo_result.example.csv
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
